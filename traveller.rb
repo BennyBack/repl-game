@@ -1,5 +1,7 @@
 def traveller
 
+	puts "Welcome to the Traveller game."
+
 	puts "Greetings Traveller"
 	puts "Who are you?"
 	user_name = gets.chomp
